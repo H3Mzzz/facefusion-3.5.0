@@ -123,7 +123,6 @@ def common_pre_check() -> bool:
 	# return all(module.pre_check() for module in common_modules) and content_analyser_hash == '803b5ec7'
 
 
-
 def processors_pre_check() -> bool:
 	for processor_module in get_processors_modules(state_manager.get_item('processors')):
 		if not processor_module.pre_check():

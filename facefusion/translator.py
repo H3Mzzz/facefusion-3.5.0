@@ -19,7 +19,6 @@ def load(__locals__ : Locals, module_name : str) -> None:
 	LOCAL_POOL_SET[module_name] = __locals__
 
 
-
 def get(notation : str, module_name : str = 'facefusion') -> Optional[str]:
     if module_name not in LOCAL_POOL_SET:
         __autoload__(module_name)

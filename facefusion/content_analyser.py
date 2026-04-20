@@ -151,11 +151,11 @@ def analyse_stream(vision_frame : VisionFrame, video_fps : Fps) -> bool:
 	# 	return analyse_frame(vision_frame)
 	return False
 
+
 # 这个是主要修改，对每一帧的检测全部返回false
 def analyse_frame(vision_frame : VisionFrame) -> bool:
 	# return detect_nsfw(vision_frame)
 	return False
-
 
 
 @lru_cache()
