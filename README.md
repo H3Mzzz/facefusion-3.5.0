@@ -7,8 +7,8 @@
 
 
 ## 🖼️ 效果预览
+<img width="1852" height="1002" alt="pic" src="https://github.com/user-attachments/assets/c7603a89-9802-4d6c-bb09-40e642d0a384" />
 
-![UI界面预览图](./images/pic.png)
 
 
 
