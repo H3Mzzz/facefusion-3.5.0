@@ -2,7 +2,7 @@ FaceFusion
 ==========
 
 > Industry leading face manipulation platform.
-> 去除 NFSW并且初步汉化
+去除 NFSW并且初步汉化
 
 
 Usage
