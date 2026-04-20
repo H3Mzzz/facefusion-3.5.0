@@ -2,15 +2,7 @@ FaceFusion
 ==========
 
 > Industry leading face manipulation platform.
-
-Preview
--------
-
-
-Installation
-------------
-
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](http://windows-installer.facefusion.io) and [macOS Installer](http://macos-installer.facefusion.io) get you started.
+> 去除 NFSW并且初步汉化
 
 
 Usage
